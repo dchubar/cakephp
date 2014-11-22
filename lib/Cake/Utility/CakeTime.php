@@ -106,7 +106,7 @@ class CakeTime {
 	}
 
 /**
- * Magic set method for backwards compatibility.
+ * Magic get method for backwards compatibility.
  * Used by TimeHelper to get static variables in CakeTime
  *
  * @param string $name Variable name
